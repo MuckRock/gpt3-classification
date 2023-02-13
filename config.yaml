@@ -26,8 +26,13 @@ documents:
 # Properties are the fields for your form
 properties:
   # the key is the name of the variable that will be returned to your code
-  name:
+  category:
     # the title is what will be shown as the form label
-    title: Test
+    title: Describe the category that of records you want labeled as "True"
+    # a string is text
+    type: string
+  value:
+    # the title is what will be shown as the form label
+    title: Value Label
     # a string is text
     type: string
