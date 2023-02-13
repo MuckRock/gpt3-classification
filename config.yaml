@@ -11,7 +11,7 @@ description: >-
   
   Note that this plugin uses *1 credit per 450 documents analyzed*, rounded up.
   Give this a full prompt that you would pass into GPT-3 and it will run it
-  against your selected documents, one at a time. The Add-On only looks at the 10,000 characters of a document. 
+  against your selected documents, one at a time. The Add-On only looks at the 12,000 characters of a document. 
   The prompt refers to the user input as the "Assignment," the document's text
   as "Document Text", and GPT-3's generated response as the "Answer," which can
   be helpful when defining your prompt.
