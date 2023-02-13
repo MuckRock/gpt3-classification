@@ -90,6 +90,7 @@ class GPTPlay(AddOn):
                         except:
                             print("Saving the value did not work")
                 except:
+                    raise
                     print("Error, moving on to the next item.")
 
             self.upload_file(file_)
