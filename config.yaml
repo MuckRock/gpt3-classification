@@ -22,7 +22,7 @@ description: |
   us in the News Nerdery Slack in the #proj-documentcloud channel.  
 # Top level type should always be object
 instructions: |
-  **Note:** This Add-On uses *14 credits per document analyzed*, rounded up.
+  **Note:** This Add-On uses 14 credits per document analyzed, rounded up.
   
   Give this a full prompt that you would pass into GPT-3 and it will run it
   against your selected documents, one at a time. The Add-On only looks at the 12,000 characters of a document. 
